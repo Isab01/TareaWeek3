@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HomeworkW3</string>
+    <string name="message">Welcome</string>
+    <string name="button_message">Enter</string>
+</resources>
